@@ -9,7 +9,7 @@
   flex-direction: column;
   height: 200px;
   justify-content:space-between;
-  width: 700px;
+  width: 100%;
 }
 
 .footer-logo
