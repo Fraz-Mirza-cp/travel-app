@@ -9,7 +9,7 @@ function customer() {
           <h1 id='review'>Customer Reviews</h1>
 
           <div className='customer-reviews'>
-            <h3 id='review-1'> Muhammad Umar </h3>
+            <h3 id='review-1'> Muhammad Umer </h3>
             <p id='r-para'>Best family trip ever!! My siblings and I had so much fun exploring Misgar and Hunza. We had never stayed with locals before and it was a memorable experience. The local food we ate, especially the local bread and yak burger were simply amazing. Travel Inc had something new planned for us every day. And the best part was the organizers let us kids be kids.</p>
           </div>
 
