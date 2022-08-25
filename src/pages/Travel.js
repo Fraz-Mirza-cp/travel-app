@@ -11,6 +11,7 @@ import beach from "../pages/beach.jpeg"
 function travel() {
   return (
     <>
+      dfjhkjfhjfehvjkefvkj
       <div className="travel-container">
 
         <img src={beach} alt='Dubai package' id='beach'></img>
