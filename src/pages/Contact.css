@@ -1,0 +1,99 @@
+.contact-body
+{
+  width: 100%;
+}
+
+.contact-div
+{
+  height:600px;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.contact-main
+{
+height:400px;
+width: 600px;
+margin-left:100px ;
+margin-top: 150px;
+}
+
+.contact-content
+{
+  height:400px;
+  width: 500px;
+  margin-top: 150px;
+  margin-left: 80px ;
+
+}
+#contact-info
+{
+  text-decoration: underline;
+  margin-left: 100px;
+  font-size: 30px;
+  
+  font-family: 'Times New Roman', Times, serif;
+
+}
+
+#question
+{
+  text-decoration: underline;
+  margin-left: 50px;
+  font-size: bold;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+#info-details
+{
+  margin-top: 50px;
+  margin-left: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: bold;
+  font-weight: lighter;
+  text-decoration: none;
+
+
+}
+
+#name
+{
+  width: 90%;
+  height: 30px;
+}
+#subject
+{
+  width: 90%;
+  height: 20px;
+}
+#message
+{
+
+  width: 90%;
+  height: 50px;
+
+}
+#submit {
+  background-color: #507f6d;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+#submit:hover {
+  background-color: black;
+}
+
+.middle-div
+{
+  border-left: 1px solid grey;
+  height: 400px;
+  margin-top: 140px;
+}
+
+
+
+
+

@@ -1,0 +1,54 @@
+.Headerdiv{
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  background: linear-gradient(to left, #C8D91E,white, #5e8baf);
+  height: 80px;
+  justify-content:space-between;
+  position:fixed;
+
+}
+.Header-image
+{
+  margin-left:40px;
+  margin-top:10px;
+
+}
+.Header-margin
+{
+  margin-top:40px;
+
+}
+
+.logoImage {
+  height:60px;
+  width:60px;
+  border-radius: 30px;
+}
+
+.Header-content-main {
+    display: flex;
+    flex-direction: row;
+    width : 1000px;
+    justify-content: space-around;
+
+}
+
+.Header-content-text {
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.link
+{
+  text-decoration: none;
+  color:rgb(74, 120, 3);
+}
+
+.link:hover
+{
+  color: black;
+  text-decoration: underline;
+
+}
