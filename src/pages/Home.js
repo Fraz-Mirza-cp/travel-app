@@ -8,6 +8,7 @@ function Home() {
   return (
     <>
       <div className="home-body">
+
         <div className='home-div'>
           <div className='home-content'>
             <figure>
@@ -16,6 +17,7 @@ function Home() {
               <figcaption> <h3>UMRAH PACKAGES</h3></figcaption>
             </figure>
           </div>
+
           <div className='home-content'>
             <figure>
               <a href='http://localhost:3000/Hajj'>
@@ -32,8 +34,8 @@ function Home() {
             </figure>
           </div>
         </div>
+
         <div className='home-div-2'>
-          Content
         </div>
       </div>
 
