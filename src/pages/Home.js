@@ -32,9 +32,8 @@ function Home() {
             </figure>
           </div>
         </div>
-
         <div className='home-div-2'>
-
+          Content
         </div>
       </div>
 
